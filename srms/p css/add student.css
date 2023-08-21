@@ -1,0 +1,76 @@
+
+.mine {
+
+    position: absolute;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 30px;
+    background: #f4f5f7;
+    width: 700px;
+    height: 420px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+.from-mine{
+    margin-top: 40px;
+}
+.from-mine label,
+.from-mine input {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+input {
+    
+    width: 350px;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid black;
+    outline: none;
+    border-radius: 5px;
+  
+}
+
+label {
+    float: left;
+    width: 200px;
+    margin-left: 40px;
+}
+
+.input-button-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.input-button-container button{
+    width: 150px;
+    height: 40px;
+    color: black;
+    background: #97a7ca;
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    margin-right: 50px;
+    margin-top:10px;
+}
+
+.input-button-container input{
+ width: 116px;
+    height: 40px;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 30px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px
+    
+}
+
+
